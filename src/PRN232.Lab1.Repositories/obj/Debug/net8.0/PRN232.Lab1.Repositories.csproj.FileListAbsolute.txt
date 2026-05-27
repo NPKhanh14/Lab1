@@ -1,0 +1,14 @@
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\bin\Debug\net8.0\PRN232.Lab1.Repositories.deps.json
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\bin\Debug\net8.0\PRN232.Lab1.Repositories.runtimeconfig.json
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\bin\Debug\net8.0\PRN232.Lab1.Repositories.dll
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\bin\Debug\net8.0\PRN232.Lab1.Repositories.pdb
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.csproj.AssemblyReference.cache
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.AssemblyInfoInputs.cache
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.AssemblyInfo.cs
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.csproj.CoreCompileInputs.cache
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.dll
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\refint\PRN232.Lab1.Repositories.dll
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.pdb
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\PRN232.Lab1.Repositories.genruntimeconfig.cache
+C:\Code\PRN232\BT\Lab1\src\PRN232.Lab1.Repositories\obj\Debug\net8.0\ref\PRN232.Lab1.Repositories.dll
